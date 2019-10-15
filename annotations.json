@@ -1,0 +1,52 @@
+[
+  {
+    "path": "M -36,279 A 45.026 45.026 0 0 0 43,310",
+    "text": "Tap to see how the first match affects the group",
+    "team": "C9",
+    "lw": 21,
+    "textOffset": [
+      -47,
+      244
+    ]
+  },
+  {
+    "path": "M -15,-69 A 105.02 105.02 0 0 0 -3,39",
+    "text": "C9 needs to beat GRF for the best chance out",
+    "team": "C9",
+    "lw": 22,
+    "textOffset": [
+      -47,
+      -94
+    ]
+  },
+  {
+    "path": "M -1000 0",
+    "text": "Two wins get JT or FPX out of groups",
+    "team": "FPX",
+    "lw": 22,
+    "textOffset": [
+      -103,
+      -11
+    ]
+  },
+  {
+    "path": "M -1000 0",
+    "text": "Two loses knock GAM and SPY out",
+    "team": "SPY",
+    "lw": 22,
+    "textOffset": [
+      -103,
+      -11
+    ]
+  },
+  {
+    "path": "M 315,21 A 80.989 80.989 0 0 1 179,88",
+    "text": "TL could be eliminated even if they beat EDG and KT",
+    "team": "TL",
+    "lw": 24,
+    "textOffset": [
+      259,
+      -7
+    ]
+  }
+]
